@@ -1,0 +1,12 @@
+{
+    "sholat": [
+        {
+            "nama": "Sholat Fardhu",
+            "bacaan": "Allahu Akbar"
+        },
+        {
+            "nama": "Sholat Sunnah",
+            "bacaan": "Subhanakallahumma wa bihamdiKa"
+        }
+    ]
+}
